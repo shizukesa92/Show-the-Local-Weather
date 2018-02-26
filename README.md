@@ -1,4 +1,4 @@
-# FreeCodeCamp Intermediate Front End Development Projects 2: Show the Local Weathe
+# FreeCodeCamp Intermediate Front End Development Projects 2: Show the Local Weather
 
 A website which shows the weather in the user's current location.
 
